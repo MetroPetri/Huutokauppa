@@ -1,0 +1,117 @@
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 2: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 2: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 2: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 2: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 2: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':'markus.pietila@hotmail.com'' at line 1
+tallennaKayttaja 1: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':'markus.pietila@hotmail.com'' at line 1
+tallennaKayttaja 1: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':'markus.pietila@hotmail.com'' at line 1
+tallennaKayttaja 1: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':'markus.pietila@hotmail.com'' at line 1
+tallennaKayttaja 1: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':'markus.pietila@hotmail.com'' at line 1
+tallennaKayttaja 1: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':'markus.pietila@hotmail.com'' at line 1
+tallennaKayttaja 1: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':'markus.pietila@hotmail.com'' at line 1
+tallennaKayttaja 2: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 2: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 2: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 2: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 2: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 2: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 2: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 2: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 1: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 2: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`markutp`.`User`, CONSTRAINT `User_ibfk_1` FOREIGN KEY (`Sijainti`) REFERENCES `Sijainti` (`SijaintiID`))
+tallennaKayttaja 2: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`markutp`.`User`, CONSTRAINT `User_ibfk_1` FOREIGN KEY (`Sijainti`) REFERENCES `Sijainti` (`SijaintiID`))
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+tallennaKayttaja 2: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`markutp`.`User`, CONSTRAINT `User_ibfk_1` FOREIGN KEY (`Sijainti`) REFERENCES `Sijainti` (`SijaintiID`))
+tallennaKayttaja 2: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`markutp`.`User`, CONSTRAINT `User_ibfk_1` FOREIGN KEY (`Sijainti`) REFERENCES `Sijainti` (`SijaintiID`))
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Login: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
